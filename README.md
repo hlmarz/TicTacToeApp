@@ -6,10 +6,10 @@ Repositori ini dibuat untuk memenuhi penugasan mata kuliah pemograman mobile men
 ---
 
 ## 👤 Identitas Mahasiswa
-* **Nama:** Halmar Zahran Rasikh Iskandar
-* **NPM:** 41155050240012
-* **Program Studi:** Teknik Informatika
-* **Universitas:** Universitas Langlangbuana
+- **Nama:** Halmar Zahran Rasikh Iskandar
+- **NPM:** 41155050240012
+- **Program Studi:** Teknik Informatika
+- **Universitas:** Universitas Langlangbuana
 
 ---
 
@@ -22,20 +22,13 @@ Aplikasi seluler interaktif sederhana berbasis *cross-platform* yang mengimpleme
 
 ---
 
-# Tic Tac Toe App - React Native (Expo)
+## 📸 Dokumentasi Tampilan Aplikasi (Expo Go)
 
-Aplikasi permainan Tic Tac Toe sederhana yang dibangun menggunakan React Native dan Expo.
+Berikut adalah tangkapan layar (*screenshot*) saat aplikasi dijalankan di perangkat:
 
-## Tampilan Aplikasi (Expo Go)
-
-Berikut adalah tangkapan layar saat aplikasi dijalankan di perangkat:
-
-### Tampilan 1
-![Screenshot 1](./assets/ss1.jpg)
-
-### Tampilan 2
-![Screenshot 2](./assets/ss2.jpg)
-
+| Tampilan Permainan Aktif | Tampilan Hasil Permainan |
+| :---: | :---: |
+| ![Screenshot 1](./assets/ss1.jpg | width=220) | ![Screenshot 2](./assets/ss2.jpg | width=220) |
 
 ---
 
