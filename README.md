@@ -31,10 +31,10 @@ Aplikasi permainan Tic Tac Toe sederhana yang dibangun menggunakan React Native 
 Berikut adalah tangkapan layar saat aplikasi dijalankan di perangkat:
 
 ### Tampilan 1
-![Screenshot 1](./ss1.jpg)
+![Screenshot 1](./assets/ss1.jpg)
 
 ### Tampilan 2
-![Screenshot 2](./ss2.jpg)
+![Screenshot 2](./assets/ss2.jpg)
 
 
 ---
