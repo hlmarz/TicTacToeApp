@@ -5,6 +5,16 @@ Repositori ini dibuat untuk memenuhi penugasan mata kuliah pemograman mobile men
 
 ---
 
+## 📸 Dokumentasi Tampilan Aplikasi (Expo Go)
+
+Berikut adalah tangkapan layar (*screenshot*) saat aplikasi dijalankan di perangkat:
+
+| Tampilan Permainan Aktif | Tampilan Hasil Permainan |
+| :---: | :---: |
+| <img src="./assets/ss1.jpg" width="220" alt="Screenshot 1"> | <img src="./assets/ss2.jpg" width="220" alt="Screenshot 2"> |
+
+---
+
 ## 👤 Identitas Mahasiswa
 - **Nama:** Halmar Zahran Rasikh Iskandar
 - **NPM:** 41155050240012
@@ -19,16 +29,6 @@ Aplikasi seluler interaktif sederhana berbasis *cross-platform* yang mengimpleme
 2. **Game Logic & Validation** untuk mendeteksi kondisi pemenang secara dinamis maupun kondisi seri (*draw*).
 3. **Immutability Principle** dalam pembaruan state array papan permainan.
 4. **Responsive Layout** menggunakan sistem *Flexbox* di React Native.
-
----
-
-## 📸 Dokumentasi Tampilan Aplikasi (Expo Go)
-
-Berikut adalah tangkapan layar (*screenshot*) saat aplikasi dijalankan di perangkat:
-
-| Tampilan Permainan Aktif | Tampilan Hasil Permainan |
-| :---: | :---: |
-| <img src="./assets/ss1.jpg" width="220" alt="Screenshot 1"> | <img src="./assets/ss2.jpg" width="220" alt="Screenshot 2"> |
 
 ---
 
