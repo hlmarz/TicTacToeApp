@@ -28,7 +28,7 @@ Berikut adalah tangkapan layar (*screenshot*) saat aplikasi dijalankan di perang
 
 | Tampilan Permainan Aktif | Tampilan Hasil Permainan |
 | :---: | :---: |
-| ![Screenshot 1](./assets/ss1.jpg | width=220) | ![Screenshot 2](./assets/ss2.jpg | width=220) |
+| <img src="./assets/ss1.jpg" width="220" alt="Screenshot 1"> | <img src="./assets/ss2.jpg" width="220" alt="Screenshot 2"> |
 
 ---
 
